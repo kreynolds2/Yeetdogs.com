@@ -6,8 +6,6 @@ const nextConfig = {
       {
         protocol: 'https',
         hostname: 'raw.githubusercontent.com',
-        port: '',
-        pathname: '/kreynolds2/Yeetdogs.com/main/Smite_wallpaper.v1%20(1).png'
       }
     ]
   }
